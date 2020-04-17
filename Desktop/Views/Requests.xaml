@@ -1,0 +1,48 @@
+﻿<UserControl x:Class="Desktop.Views.Requests"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:prism="http://prismlibrary.com/"
+             prism:ViewModelLocator.AutoWireViewModel="True"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <Button Grid.Row="0" Content="Back to main menu" Command="{Binding BackCommand}" Margin="10" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+        <Button Grid.Row="0" Name="Save" Content="Save" Command="{Binding SaveCommand}" Margin="10" HorizontalAlignment="Right" VerticalAlignment="Center"/>
+
+        <DataGrid Grid.Row="1" Name="RequestsForNewCourses" ItemsSource="{Binding CoursesRequests, Mode=TwoWay}" Margin="10" AutoGenerateColumns="False"
+                  CanUserAddRows="False"  SelectionMode="Extended" VerticalContentAlignment="Center">
+            <DataGrid.Columns>
+                <DataGridTextColumn Binding="{Binding Name}" Header="Course Name" IsReadOnly="True"/>
+                <DataGridTextColumn Binding="{Binding TrainerName}" Header="Trainer" IsReadOnly="True"/>
+                <DataGridTextColumn Binding="{Binding RoomName}" Header="Room" IsReadOnly="True"/>
+                <DataGridTextColumn Binding="{Binding StartTime}" Header="StartDate" IsReadOnly="True"/>
+                <DataGridTextColumn Binding="{Binding EndTime}" Header="EndDate" IsReadOnly="True"/>
+                <DataGridTextColumn Binding="{Binding TotalNumberOfSeats}" Header="Total Seats" IsReadOnly="True"/>
+                <DataGridCheckBoxColumn Binding="{Binding IsApproved}" Header="Approve or refuse"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <DataGrid Grid.Row="2" Name="RequestsForNewEvents" ItemsSource="{Binding EventsRequests, Mode=TwoWay}" Margin="10" AutoGenerateColumns="False"
+                  CanUserAddRows="False"  SelectionMode="Extended" VerticalContentAlignment="Center">
+            <DataGrid.Columns>
+                <DataGridTextColumn Binding="{Binding Name}" Header="Event Name" IsReadOnly="True"/>
+                <DataGridTextColumn Binding="{Binding ParticipationFee}" Header="Participation Fee" IsReadOnly="True"/>
+                <DataGridTextColumn Binding="{Binding RoomName}" Header="Room" IsReadOnly="True"/>
+                <DataGridTextColumn Binding="{Binding StartTime}" Header="StartDate" IsReadOnly="True"/>
+                <DataGridTextColumn Binding="{Binding EndTime}" Header="EndDate" IsReadOnly="True"/>
+                <DataGridTextColumn Binding="{Binding NrParticipants}" Header="Number of participants" IsReadOnly="True"/>
+                <DataGridCheckBoxColumn Binding="{Binding IsApproved}" Header="Approve or refuse"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+    </Grid>
+</UserControl>

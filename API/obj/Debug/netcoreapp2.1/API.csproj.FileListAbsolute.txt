@@ -1,0 +1,35 @@
+D:\Visual Studio Programs\SE\ArtClub\API\bin\Debug\netcoreapp2.1\API.deps.json
+D:\Visual Studio Programs\SE\ArtClub\API\bin\Debug\netcoreapp2.1\API.runtimeconfig.json
+D:\Visual Studio Programs\SE\ArtClub\API\bin\Debug\netcoreapp2.1\API.runtimeconfig.dev.json
+D:\Visual Studio Programs\SE\ArtClub\API\bin\Debug\netcoreapp2.1\API.dll
+D:\Visual Studio Programs\SE\ArtClub\API\bin\Debug\netcoreapp2.1\API.pdb
+D:\Visual Studio Programs\SE\ArtClub\API\obj\Debug\netcoreapp2.1\API.csprojAssemblyReference.cache
+D:\Visual Studio Programs\SE\ArtClub\API\obj\Debug\netcoreapp2.1\API.csproj.CoreCompileInputs.cache
+D:\Visual Studio Programs\SE\ArtClub\API\obj\Debug\netcoreapp2.1\API.RazorAssemblyInfo.cache
+D:\Visual Studio Programs\SE\ArtClub\API\obj\Debug\netcoreapp2.1\API.RazorAssemblyInfo.cs
+D:\Visual Studio Programs\SE\ArtClub\API\obj\Debug\netcoreapp2.1\API.AssemblyInfoInputs.cache
+D:\Visual Studio Programs\SE\ArtClub\API\obj\Debug\netcoreapp2.1\API.AssemblyInfo.cs
+D:\Visual Studio Programs\SE\ArtClub\API\obj\Debug\netcoreapp2.1\API.RazorTargetAssemblyInfo.cache
+D:\Visual Studio Programs\SE\ArtClub\API\obj\Debug\netcoreapp2.1\API.dll
+D:\Visual Studio Programs\SE\ArtClub\API\obj\Debug\netcoreapp2.1\API.pdb
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\API\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\API\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\API\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\API\bin\Debug\netcoreapp2.1\API.deps.json
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\API\bin\Debug\netcoreapp2.1\API.runtimeconfig.json
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\API\bin\Debug\netcoreapp2.1\API.runtimeconfig.dev.json
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\API\bin\Debug\netcoreapp2.1\API.dll
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\API\bin\Debug\netcoreapp2.1\API.pdb
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\API\bin\Debug\netcoreapp2.1\Common.dll
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\API\bin\Debug\netcoreapp2.1\Common.pdb
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\API\obj\Debug\netcoreapp2.1\API.csprojAssemblyReference.cache
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\API\obj\Debug\netcoreapp2.1\API.csproj.CoreCompileInputs.cache
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\API\obj\Debug\netcoreapp2.1\API.RazorAssemblyInfo.cache
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\API\obj\Debug\netcoreapp2.1\API.RazorAssemblyInfo.cs
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\API\obj\Debug\netcoreapp2.1\API.AssemblyInfoInputs.cache
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\API\obj\Debug\netcoreapp2.1\API.AssemblyInfo.cs
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\API\obj\Debug\netcoreapp2.1\API.RazorTargetAssemblyInfo.cache
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\API\obj\Debug\netcoreapp2.1\API.csproj.CopyComplete
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\API\obj\Debug\netcoreapp2.1\API.dll
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\API\obj\Debug\netcoreapp2.1\API.pdb
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\API\obj\Debug\netcoreapp2.1\API.genruntimeconfig.cache

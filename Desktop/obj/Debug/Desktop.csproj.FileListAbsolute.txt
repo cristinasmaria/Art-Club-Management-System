@@ -1,0 +1,100 @@
+D:\Visual Studio Programs\SE\ArtClub\Desktop\bin\Debug\Desktop.exe.config
+D:\Visual Studio Programs\SE\ArtClub\Desktop\bin\Debug\Desktop.exe
+D:\Visual Studio Programs\SE\ArtClub\Desktop\bin\Debug\Desktop.pdb
+D:\Visual Studio Programs\SE\ArtClub\Desktop\obj\Debug\Desktop.csprojAssemblyReference.cache
+D:\Visual Studio Programs\SE\ArtClub\Desktop\obj\Debug\MainWindow.g.cs
+D:\Visual Studio Programs\SE\ArtClub\Desktop\obj\Debug\App.g.cs
+D:\Visual Studio Programs\SE\ArtClub\Desktop\obj\Debug\Desktop_MarkupCompile.cache
+D:\Visual Studio Programs\SE\ArtClub\Desktop\obj\Debug\Desktop_MarkupCompile.lref
+D:\Visual Studio Programs\SE\ArtClub\Desktop\obj\Debug\MainWindow.baml
+D:\Visual Studio Programs\SE\ArtClub\Desktop\obj\Debug\Desktop.g.resources
+D:\Visual Studio Programs\SE\ArtClub\Desktop\obj\Debug\Desktop.Properties.Resources.resources
+D:\Visual Studio Programs\SE\ArtClub\Desktop\obj\Debug\Desktop.csproj.GenerateResource.cache
+D:\Visual Studio Programs\SE\ArtClub\Desktop\obj\Debug\Desktop.csproj.CoreCompileInputs.cache
+D:\Visual Studio Programs\SE\ArtClub\Desktop\obj\Debug\Desktop.exe
+D:\Visual Studio Programs\SE\ArtClub\Desktop\obj\Debug\Desktop.pdb
+D:\Visual Studio Programs\SE\ArtClub\Desktop\bin\Debug\Newtonsoft.Json.dll
+D:\Visual Studio Programs\SE\ArtClub\Desktop\bin\Debug\Newtonsoft.Json.xml
+D:\Visual Studio Programs\SE\ArtClub\Desktop\obj\Debug\Desktop.csproj.CopyComplete
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\Desktop\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\Desktop\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\Desktop\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\Desktop\bin\Debug\Desktop.exe.config
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\Desktop\bin\Debug\Desktop.exe
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\Desktop\bin\Debug\Desktop.pdb
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\Desktop\bin\Debug\Common.dll
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\Desktop\bin\Debug\CommonServiceLocator.dll
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\Desktop\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\Desktop\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\Desktop\bin\Debug\Newtonsoft.Json.dll
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\Desktop\bin\Debug\Prism.dll
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\Desktop\bin\Debug\Prism.Unity.Wpf.dll
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\Desktop\bin\Debug\Prism.Wpf.dll
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\Desktop\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\Desktop\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\Desktop\bin\Debug\System.ValueTuple.dll
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\Desktop\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\Desktop\bin\Debug\Unity.Abstractions.dll
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\Desktop\bin\Debug\Unity.Container.dll
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\Desktop\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\Desktop\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\Desktop\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\Desktop\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\Desktop\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\Desktop\bin\Debug\Common.pdb
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\Desktop\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\Desktop\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\Desktop\bin\Debug\Newtonsoft.Json.xml
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\Desktop\bin\Debug\Prism.pdb
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\Desktop\bin\Debug\Prism.xml
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\Desktop\bin\Debug\Prism.Unity.Wpf.pdb
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\Desktop\bin\Debug\Prism.Unity.Wpf.xml
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\Desktop\bin\Debug\Prism.Wpf.pdb
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\Desktop\bin\Debug\Prism.Wpf.xml
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\Desktop\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\Desktop\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\Desktop\bin\Debug\System.ValueTuple.xml
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\Desktop\bin\Debug\Unity.Abstractions.pdb
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\Desktop\bin\Debug\Unity.Container.pdb
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\Desktop\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\Desktop\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\Desktop\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\Desktop\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\Desktop\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\Desktop\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\Desktop\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\Desktop\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\Desktop\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\Desktop\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\Desktop\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\Desktop\obj\Debug\Desktop.csprojAssemblyReference.cache
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\Desktop\obj\Debug\Views\EditMembers.baml
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\Desktop\obj\Debug\Views\MainMenu.baml
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\Desktop\obj\Debug\Views\MainWindow.baml
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\Desktop\obj\Debug\Views\MemberCourses.baml
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\Desktop\obj\Debug\Views\PromoteUsers.baml
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\Desktop\obj\Debug\Views\Register.baml
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\Desktop\obj\Debug\Views\Login.baml
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\Desktop\obj\Debug\Views\Requests.baml
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\Desktop\obj\Debug\Views\CreateCourse.g.cs
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\Desktop\obj\Debug\Views\EditMembers.g.cs
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\Desktop\obj\Debug\Views\MainMenu.g.cs
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\Desktop\obj\Debug\Views\MainWindow.g.cs
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\Desktop\obj\Debug\Views\MemberCourses.g.cs
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\Desktop\obj\Debug\Views\PromoteUsers.g.cs
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\Desktop\obj\Debug\Views\Register.g.cs
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\Desktop\obj\Debug\Views\Login.g.cs
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\Desktop\obj\Debug\Views\Requests.g.cs
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\Desktop\obj\Debug\App.g.cs
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\Desktop\obj\Debug\Desktop_Content.g.cs
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\Desktop\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\Desktop\obj\Debug\Desktop_MarkupCompile.cache
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\Desktop\obj\Debug\Desktop_MarkupCompile.lref
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\Desktop\obj\Debug\Views\CreateCourse.baml
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\Desktop\obj\Debug\Desktop.g.resources
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\Desktop\obj\Debug\Desktop.Properties.Resources.resources
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\Desktop\obj\Debug\Desktop.csproj.GenerateResource.cache
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\Desktop\obj\Debug\Desktop.csproj.CoreCompileInputs.cache
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\Desktop\obj\Debug\Desktop.csproj.CopyComplete
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\Desktop\obj\Debug\Desktop.exe
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\Desktop\obj\Debug\Desktop.pdb

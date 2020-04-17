@@ -1,0 +1,14 @@
+D:\Visual Studio Programs\SE\ArtClub\API\bin\Debug\netcoreapp2.2\API.deps.json
+D:\Visual Studio Programs\SE\ArtClub\API\bin\Debug\netcoreapp2.2\API.runtimeconfig.json
+D:\Visual Studio Programs\SE\ArtClub\API\bin\Debug\netcoreapp2.2\API.runtimeconfig.dev.json
+D:\Visual Studio Programs\SE\ArtClub\API\bin\Debug\netcoreapp2.2\API.dll
+D:\Visual Studio Programs\SE\ArtClub\API\bin\Debug\netcoreapp2.2\API.pdb
+D:\Visual Studio Programs\SE\ArtClub\API\obj\Debug\netcoreapp2.2\API.csprojAssemblyReference.cache
+D:\Visual Studio Programs\SE\ArtClub\API\obj\Debug\netcoreapp2.2\API.csproj.CoreCompileInputs.cache
+D:\Visual Studio Programs\SE\ArtClub\API\obj\Debug\netcoreapp2.2\API.RazorAssemblyInfo.cache
+D:\Visual Studio Programs\SE\ArtClub\API\obj\Debug\netcoreapp2.2\API.RazorAssemblyInfo.cs
+D:\Visual Studio Programs\SE\ArtClub\API\obj\Debug\netcoreapp2.2\API.AssemblyInfoInputs.cache
+D:\Visual Studio Programs\SE\ArtClub\API\obj\Debug\netcoreapp2.2\API.AssemblyInfo.cs
+D:\Visual Studio Programs\SE\ArtClub\API\obj\Debug\netcoreapp2.2\API.RazorTargetAssemblyInfo.cache
+D:\Visual Studio Programs\SE\ArtClub\API\obj\Debug\netcoreapp2.2\API.dll
+D:\Visual Studio Programs\SE\ArtClub\API\obj\Debug\netcoreapp2.2\API.pdb

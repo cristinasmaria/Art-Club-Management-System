@@ -1,0 +1,9 @@
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\Common\bin\Debug\netstandard2.0\Common.deps.json
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\Common\bin\Debug\netstandard2.0\Common.dll
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\Common\bin\Debug\netstandard2.0\Common.pdb
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\Common\obj\Debug\netstandard2.0\Common.csprojAssemblyReference.cache
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\Common\obj\Debug\netstandard2.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\Common\obj\Debug\netstandard2.0\Common.AssemblyInfoInputs.cache
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\Common\obj\Debug\netstandard2.0\Common.AssemblyInfo.cs
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\Common\obj\Debug\netstandard2.0\Common.dll
+C:\Users\CRISTINA\Desktop\InformationSystemsHomework8-work-848f941b0a21\ArtClub\Common\obj\Debug\netstandard2.0\Common.pdb
